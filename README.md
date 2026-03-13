@@ -109,5 +109,5 @@ Ele pode ser expandido para multialunos, adicionando listas ou arrays de objetos
 O projeto foi desenvolvido como desafio acadêmico do primeiro semestre e demonstra conhecimentos iniciais de programação orientada a objetos.
 
 📌 Autor: Lucas de Souza Barboza
-🎓 Semestre: 1º Semestre
+🎓 Semestre: 3º Semestre
 💻 Curso: Analise e desenvolvimento de Sistemas
